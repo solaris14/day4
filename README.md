@@ -1,2 +1,3 @@
 # day4
-Arjun Gaihre, ME-Internetworking, Dalhousie university
+hi all, I like to code in python!!
+I am learning python on my pace.
